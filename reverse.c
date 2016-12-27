@@ -2,7 +2,7 @@
 void main()
 {
 	int n, reverse=0;
-	printf("enter the number to reverse/n");
+	printf("enter the number to reverse\n");
 	scanf(%d,&n);
  
 	while(n!=0)
@@ -11,4 +11,6 @@ void main()
 		reverse=reverse+n%10;
 		n=n/10;
 	}
- } 
+        printf("Reverse of entered number is =%d\n,reverse)
+}	       
+	       
