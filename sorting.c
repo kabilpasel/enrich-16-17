@@ -2,8 +2,8 @@
 
 int main() 
 {
-    int a[100],j;
-    int n,i,d,size=0,temp;
+    int a[100], i,j;
+    int n,d,size=0,temp;
     printf("enter the number:");
     scanf("%d",&n);
 
